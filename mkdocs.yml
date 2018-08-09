@@ -31,7 +31,7 @@ extra:
       link: 'https://www.linkedin.com/company/qolei/'
   feature:
     tabs: false
-pages:
+nav:
   - Home: 'index.md'
   - Documentation:
     - Economy: 'documentation/economy.md'
@@ -47,7 +47,6 @@ pages:
       - Overview: 'initiatives/qolihop/index.md'
   - Investment projects:
     - Overview: 'investment_projects/index.md'
-	- Positiveau: 'investment_projects/positiveau.md'
   - Roles:
     - Overview: 'roles/index.md'
     - Vacant roles: 'roles/Vacant_Roles.md'
