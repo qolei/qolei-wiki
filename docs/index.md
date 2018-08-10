@@ -15,7 +15,7 @@ In this project we will use blockchain and other technology as enabler, not as a
 
 This wiki contains much of the qolei content and resources available publicly.
 
-#### Discussions are available here for participants to discuss changes, issues, or other tensions related to the QOLEI governance and economic models and agreements. 
+## Discussions are available here for participants to discuss changes, issues, or other tensions related to the QOLEI governance and economic models and agreements. 
 
 Navigate <a href="https://github.com/qolei/qolei-wiki/issues" target="_blank">Here</a> and click on the green "New Issue" button. 
 
@@ -60,4 +60,3 @@ You can use the menu to the left to navigate the wiki. Here is a brief summary o
     - Qolei Press Kit for Press/Media
     - Some media mentions
     - Contact information for media/press inquiries
-___
