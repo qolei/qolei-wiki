@@ -12,7 +12,7 @@ theme:
       text: 'Overpass'
       code: 'Overpass Mono'
   logo: 'images/Qolei_org_2.png'
-  favicon: 'images/favicon.ico'
+  favicon: 'images/qolei.ico'
 extra_css:
   - 'stylesheets/extra_style.css'
 extra_javascript:
