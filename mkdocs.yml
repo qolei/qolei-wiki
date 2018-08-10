@@ -49,7 +49,7 @@ nav:
     - Overview: 'investment_projects/index.md'
   - Roles:
     - Overview: 'roles/index.md'
-    - Vacant roles: 'roles/Vacant_Roles.md'
+    - Vacant roles: 'roles/Vacant_roles.md'
   - Press:
       - Press Kit: 'press/press-kit.md'
       - Media Mentions: 'press/media-mentions.md'
